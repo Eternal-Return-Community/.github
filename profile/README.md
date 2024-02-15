@@ -8,10 +8,7 @@
 - **[dnSpy](https://github.com/dnSpy/dnSpy)**
 - **[Fiddler Classic](https://www.telerik.com/fiddler/fiddler-classic)** or **[Wireshark](https://www.wireshark.org/)**
 
-For some upcoming information like characters, skins, battle passes, emotes, etc. 
-you don't even need to extract anything from the game, all you need to do is access some endpoints of ER's public API.<br> 
-
-You have to clone the gameData repository, then you can run the script and it'll download the necessary information so you can check the (possible) upcoming characters, skins, battle passes, emotes, etc. <br><br>
+For some upcoming information like characters, skins, battle passes, emotes, etc. you don't even need to extract anything from the game, all you need to do is access some endpoints of ER's public API. And to do so, you have to clone the gameData repository, then you can run the script and it'll download the necessary information so you can check the (possible) upcoming characters, skins, battle passes, emotes, etc.<br><br>
 
 ## Community Discord Servers 
 * **BR** - **[Hotel de Lumia](https://discord.gg/fHaHXGmyce)**, **[Bordel de Lumia](https://discord.gg/c7TRRDpZee)**, **[Inhouse SA](https://discord.gg/JHzEK4xNez)** and **[Banana](https://discord.gg/Xd3DQgfd6D)**
