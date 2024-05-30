@@ -5,7 +5,7 @@
 ## My api
     Builds | https://api.nicashow.fun
 
-| Method | PATH | Description |
+| Method | ENDPOINT | Description |
 | ------ | ------ | ------ |
 | GET | [/build/:buildid](https://api.nicashow.fun) | Get build
 | GET | [/update/:buildid](https://api.nicashow.fun) | Update build
